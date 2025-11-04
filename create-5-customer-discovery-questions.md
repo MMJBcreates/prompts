@@ -1,4 +1,4 @@
-Create a set of 5 compelling and thought-provoking ptoblem-focused interview questions tailored for [specific niche/audience]. Follow these guidelines:
+Create a set of 5 compelling and thought-provoking problem-focused interview questions tailored for [specific niche/audience]. Follow these guidelines:
 
 • Ensure each question is concise (10-15 words maximum), open-ended, and designed to elicit personal experiences or opinions.
 • Questions should be relevant to current trends, challenges, or interests within the niche.
